@@ -1,2 +1,3 @@
 Hi- NewBranch
-Conflict By Myself
+Confilict-By Conributer
+Conflict Is Removed
